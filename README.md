@@ -1,4 +1,4 @@
-## Basic Frequentist Fitting
+## Bootstrapping
 
 To complete this tutorial:
 
